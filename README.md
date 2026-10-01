@@ -9,7 +9,7 @@ Análise de uma base de **50 mil clientes** para descobrir por que eles cancelam
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-![Resultado da análise](imagens/resultado.png)
+![Resultado da análise](resultado.png)
 
 ---
 
@@ -28,13 +28,13 @@ Uma empresa com mais de 800 mil clientes percebeu que a maior parte da sua base 
 ## 🔍 Principais descobertas
 
 ### 1. Contrato mensal: 100% de cancelamento
-![Cancelamento por duração do contrato](imagens/contrato.png)
+![Cancelamento por duração do contrato](contrato.png)
 
 ### 2. Mais de 4 ligações ao call center: cancelamento quase certo
-![Cancelamento por ligações ao call center](imagens/ligacoes.png)
+![Cancelamento por ligações ao call center](ligacoes.png)
 
 ### 3. Mais de 20 dias de atraso: 100% de cancelamento
-![Cancelamento por dias de atraso](imagens/atraso.png)
+![Cancelamento por dias de atraso](atraso.png)
 
 Outro ponto de atenção: **todos os clientes acima de 50 anos cancelaram**, o que merece uma investigação específica sobre a experiência desse público.
 
